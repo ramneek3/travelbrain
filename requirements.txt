@@ -1,0 +1,6 @@
+openai>=1.50
+ddgs
+fastapi>=0.115
+uvicorn[standard]
+httpx
+psycopg[binary]>=3.2
